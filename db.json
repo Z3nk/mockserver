@@ -1,8 +1,8 @@
 {
-    "CPS": {
-        "id":186,
+    "CPS": [{
+        "id":"feJ8EBeE",
         "firstName": "damien",
         "lastName": "gaillard",
         "profession": "PUBG-player"
-    }
+    }]
 }
